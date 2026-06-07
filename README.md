@@ -1,18 +1,3 @@
-<div align="center">
-
-# Eduard Shatalov
-
-### AI Product Engineer / Forward-Deployed AI Engineer
-
-Building AI systems that **remember, evaluate, and act**.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-shatalov.dev-7B61FF?style=for-the-badge)](https://shatalov.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Qalipso-181717?style=for-the-badge&logo=github)](https://github.com/Qalipso)
-[![Remote](https://img.shields.io/badge/Remote-Montevideo%2C%20Uruguay-22C55E?style=for-the-badge)](https://shatalov.dev)
-
-</div>
-
----
 
 ## What I do
 
