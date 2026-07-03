@@ -49,6 +49,18 @@ AI workspace for structured memory, knowledge retrieval and personal workflows.
 
 **Code:** [Shadow-AI-Second-Brain](https://github.com/Qalipso/Shadow-AI-Second-Brain)
 
+### Work Intelligence Platform
+Turns Telegram work discussions into reviewed, structured Work Items.
+
+**Highlights**
+- Telegram capture bot
+- LLM extraction → Work Items
+- human review workflow
+- FastAPI + async Python worker
+- Postgres · Redis · Next.js
+
+**Code:** [telegram-task-bot](https://github.com/Qalipso/telegram-task-bot)
+
 ### AI Evaluation Tool
 Production evaluation framework for LLM applications.
 
