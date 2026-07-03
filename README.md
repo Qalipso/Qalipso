@@ -1,69 +1,137 @@
+# Hi, I'm Eduard Shatalov 👋
 
-## What I do
+**AI Product Engineer** building production software with LLMs, structured memory, and intelligent workflows.
 
-I build production AI products with a focus on:
+I design and ship AI-native products that combine LLMs, structured memory, workflow automation, and great developer experience.
 
-- **LLM evaluation** — rubrics, LLM-as-judge, safety gates, regression reports
-- **AI memory** — RAG, structured context, second-brain systems
-- **AI workflows** — agents, automation, tools, calendars, reports
-- **Product engineering** — full-stack interfaces that make AI usable
-- **Delivery leadership** — 6 years shipping software with cross-functional teams
+Over the last 6 years I've delivered B2B SaaS products, led cross-functional teams, and recently focused on building AI systems that solve real customer problems — not AI demos.
 
 ---
 
-## Featured work
+## What I Build
 
-### AI Evaluation Tool
-LLM output QA platform for testing AI responses before they reach users.
+I build AI systems that people actually use in production.
 
-**Includes:** LLM-as-judge, claim grounding, safety gates, regression-style reports, human review.  
-**Stack:** Next.js · TypeScript · OpenAI · Zod · Vercel  
-**Code:** [ai-evaluation-tool](https://github.com/Qalipso/ai-evaluation-tool)
+### AI Products
+- AI copilots
+- AI agents
+- RAG systems
+- evaluation platforms
+- workflow automation
+
+### Product Engineering
+- TypeScript & Python applications
+- APIs and integrations
+- developer tools
+- internal platforms
+- AI-native UX
+
+### AI Infrastructure
+- structured memory
+- retrieval pipelines
+- vector search
+- evaluation systems
+- observability
 
 ---
+
+## Featured Projects
 
 ### Shadow
-AI second brain / life analytics system for memory, tasks, goals, emotions, and personal workflows.
+AI workspace for structured memory, knowledge retrieval and personal workflows.
 
-**Focus:** AI memory, daily signals, structured reflection, personal operating system.  
-**Stack:** Next.js · TypeScript · AI memory architecture  
-**Code:** [shadow-ai-second-brain](https://github.com/Qalipso/shadow-AI-Second-Brain)
+**Highlights**
+- RAG memory
+- knowledge graph
+- vector search
+- AI chat
+- structured context
 
----
+**Code:** [Shadow-AI-Second-Brain](https://github.com/Qalipso/Shadow-AI-Second-Brain)
 
-### RAG Memory Playground
-Experiments around retrieval, structured memory, and project context for AI agents.
+### AI Evaluation Tool
+Production evaluation framework for LLM applications.
 
-**Focus:** RAG, memory comparison, document/project context, retrieval quality.  
-**Code:** [rag-memory-playground](https://github.com/Qalipso/rag-memory-playground)
+**Highlights**
+- LLM-as-a-judge
+- regression testing
+- grounding
+- safety evaluation
+- human review
 
----
+**Code:** [ai-evaluation-tool](https://github.com/Qalipso/ai-evaluation-tool)
 
 ### Agent Studio
-Workspace concept for managing AI agents, projects, task queues, statuses, logs, and memory.
+Operating system for managing AI agents, workflows, memory and project execution.
 
-**Focus:** multi-agent workflows, orchestration, project memory, AI operating systems.  
-**Code:** [Agent-Studio-App](https://github.com/Qalipso/Agent-Studio-App)
+**Highlights**
+- multi-agent orchestration
+- agent lifecycle
+- project memory
+- execution tracking
+- workflow routing
+
+### PromptOps
+Prompt versioning, diffing, and rendering for LLM applications.
+
+**Highlights**
+- prompt versioning
+- diffing and rendering
+- structured prompt management
+- monorepo tooling (Hono · Drizzle · Next.js)
+
+**Code:** [promptops-tool](https://github.com/Qalipso/promptops-tool)
 
 ---
 
-## Core stack
+## Areas of Focus
 
-**AI:** LLM evaluation · RAG · AI memory · prompt systems · agents · workflow automation  
-**Engineering:** TypeScript · Next.js · React · Node.js · REST APIs · Azure · Vercel  
-**Delivery:** stakeholder communication · QA workflows · technical planning · production delivery
+- AI Product Engineering
+- AI Agents & Workflows
+- RAG & Memory Systems
+- Developer Experience
+- LLM Evaluation
+- Automation Platforms
+- AI Infrastructure
 
 ---
 
-## Background
+## Tech
 
-6 years in production software delivery — from implementation work to senior team lead.
+TypeScript · Python · React · Next.js · Node.js · PostgreSQL · Supabase · Azure · Vercel · OpenAI · Anthropic
 
-I like building AI systems that survive real users, messy workflows, edge cases, and business constraints.
+---
+
+## Experience
+
+6 years building and delivering B2B SaaS products.
+
+Started as an implementation engineer and grew into technical leadership, coordinating engineers, QA, analysts, DevOps and business stakeholders while shipping production software for enterprise customers.
+
+Today I focus on AI-native software, combining product thinking with engineering to build practical AI systems.
+
+---
+
+## Currently Exploring
+
+- AI-native products
+- MCP
+- Agent workflows
+- Evaluation pipelines
+- Long-term memory
+- AI observability
+
+---
+
+## Open Source
+
+I enjoy building developer tools, AI infrastructure, and experimental projects around agents, memory, and evaluation.
 
 ---
 
 ## Contact
 
-- Portfolio: [shatalov.dev](https://shatalov.dev)
-- GitHub: [@Qalipso](https://github.com/Qalipso)
+- 🌐 [shatalov.dev](https://shatalov.dev)
+- 💻 [github.com/Qalipso](https://github.com/Qalipso)
+- 💼 [LinkedIn](https://linkedin.com/in/eduard-shatalov-6a7a50248)
+- ✉️ [eduard@shatalov.dev](mailto:eduard@shatalov.dev)
